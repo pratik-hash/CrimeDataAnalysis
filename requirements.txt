@@ -1,0 +1,15 @@
+geopandas==0.9.0
+geojsonio==0.0.3
+branca==0.4.2
+streamlit==0.79.0
+plotly==4.14.3
+pandas==1.2.3
+requests==2.25.1
+geopy==2.1.0
+numpy==1.20.2
+seaborn==0.11.1
+Shapely==1.7.1
+folium==0.12.1
+matplotlib==3.4.1
+pydeck==0.6.1
+streamlit_folium==0.3.0
